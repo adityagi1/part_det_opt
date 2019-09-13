@@ -14,6 +14,7 @@ Following files are included:
 - utils.py: helper functions 
 - classes.py: object-oriented classes used throughout program
 - config.py: configuration file to be used by user to input problem parameters
+- parsing_functions.py: contains parsing functions used to read production data in .csv input format
 - dlpack.py: implementation of dlpack algorithm
 - mmh.py: implementation of mmh (meet-me-halfway) algorithm 
 - ryg.py: implementation of ryg (red-yellow-green) algorithm

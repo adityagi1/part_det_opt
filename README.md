@@ -13,6 +13,7 @@ Following files are included:
 - main.py : driver file
 - utils.py: helper functions 
 - classes.py: object-oriented classes used throughout program
+- config.py: configuration file to be used by user to input problem parameters
 - dlpack.py: implementation of dlpack algorithm
 - mmh.py: implementation of mmh (meet-me-halfway) algorithm 
 - ryg.py: implementation of ryg (red-yellow-green) algorithm

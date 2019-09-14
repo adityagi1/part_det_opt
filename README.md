@@ -1,5 +1,5 @@
 # part_det_opt
-Python implementation of algorithm(s) I designed to solve a variant of the bin-packing problem faced by the Cloud DLP Team.
+Python implementation of algorithm(s) I designed to solve a variant of the bin-packing problem faced by the Symantec Cloud DLP Team.
 Consists of the following algorithms:
 - DLPACK - A Packing Heuristic Algorithm
 - MMH - A Reshaping Algorithm
